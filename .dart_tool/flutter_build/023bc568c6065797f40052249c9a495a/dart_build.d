@@ -1,0 +1,1 @@
+ /home/jokobim/Documents/dart/.dart_tool/flutter_build/023bc568c6065797f40052249c9a495a/dart_build_result.json:  /home/jokobim/Documents/dart/.dart_tool/package_config.json /home/jokobim/Documents/dart/pubspec.yaml /home/jokobim/fvm/versions/stable/bin/cache/dart-sdk/version

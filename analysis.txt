@@ -1,0 +1,27 @@
+Analyzing dart...                                               
+
+   info • 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre • lib/core/theme.dart:18:9 • deprecated_member_use
+  error • The argument type 'CardTheme' can't be assigned to the parameter type 'CardThemeData?'.  • lib/core/theme.dart:46:18 • argument_type_not_assignable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/core/theme.dart:48:35 • deprecated_member_use
+  error • Classes can only extend other classes • lib/features/shop/providers/cart_provider.dart:18:28 • extends_non_class
+  error • Too many positional arguments: 0 expected, but 1 found • lib/features/shop/providers/cart_provider.dart:19:26 • extra_positional_arguments
+  error • Undefined name 'state' • lib/features/shop/providers/cart_provider.dart:22:27 • undefined_identifier
+  error • Undefined name 'state' • lib/features/shop/providers/cart_provider.dart:24:7 • undefined_identifier
+  error • Undefined name 'state' • lib/features/shop/providers/cart_provider.dart:25:29 • undefined_identifier
+  error • Undefined name 'state' • lib/features/shop/providers/cart_provider.dart:27:13 • undefined_identifier
+  error • Undefined name 'state' • lib/features/shop/providers/cart_provider.dart:27:41 • undefined_identifier
+  error • Undefined name 'state' • lib/features/shop/providers/cart_provider.dart:29:13 • undefined_identifier
+  error • Undefined name 'state' • lib/features/shop/providers/cart_provider.dart:32:7 • undefined_identifier
+  error • Undefined name 'state' • lib/features/shop/providers/cart_provider.dart:32:19 • undefined_identifier
+  error • Undefined name 'state' • lib/features/shop/providers/cart_provider.dart:37:5 • undefined_identifier
+  error • Undefined name 'state' • lib/features/shop/providers/cart_provider.dart:37:13 • undefined_identifier
+  error • Undefined name 'state' • lib/features/shop/providers/cart_provider.dart:40:25 • undefined_identifier
+  error • The function 'StateNotifierProvider' isn't defined • lib/features/shop/providers/cart_provider.dart:43:22 • undefined_function
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/shop/screens/home_screen.dart:119:43 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/shop/widgets/hero_section.dart:30:41 • deprecated_member_use
+warning • The value of the local variable 'cartItems' isn't used • lib/features/shop/widgets/nav_bar.dart:11:11 • unused_local_variable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/shop/widgets/nav_bar.dart:63:30 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/shop/widgets/product_card.dart:45:50 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/shop/widgets/product_card.dart:79:55 • deprecated_member_use
+
+23 issues found. (ran in 39.8s)
